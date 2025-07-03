@@ -16,4 +16,5 @@ A lightweight AI project that classifies images of Spider-Man and Batman using a
 3. Before you run , write this command to avoid mistakes.
    !pip install TensorFlow==2.12.1
 
-   https://github.com/Eng-Abdulrahman7/AI-SuperHero/blob/main/image%20output.png?raw=true
+  ![image](https://github.com/user-attachments/assets/51a9f78b-4d61-4b83-abd8-612d1f314331)
+
